@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">8c14e409db333010902c1d6305961959</sp_column>
+        <sp_widget display_value="Test Widget">84142cc5db333010902c1d63059619a9</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-11 14:38:52</sys_created_on>
+        <sys_id>0414e409db333010902c1d6305961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="VS Code App" source="x_425618_vs_code_a">1ec3acc5db333010902c1d63059619e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VS Code App">1ec3acc5db333010902c1d63059619e0</sys_scope>
+        <sys_update_name>sp_instance_0414e409db333010902c1d6305961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-11 14:38:52</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=0414e409db333010902c1d6305961975"/>
+</record_update>
